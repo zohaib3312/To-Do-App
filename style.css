@@ -1,0 +1,54 @@
+.buttion-delete{
+    /* width: 50%; */
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+
+.buttion-edite{
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: rgb(54, 170, 54);
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;   
+}
+
+
+
+.bg-design{
+    background-color: slateblue;
+    width: 40%;
+    height: 500px;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.inputfield{
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    /* border-bottom: 1px solid red; */
+}
+
+
+.text-decorations{
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 0 50px;
+}
